@@ -209,13 +209,14 @@ Xiangbo Shu, **Binqian Xu**, Liyan Zhang, Jinhui Tang
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 🎖 Honors and Awards
-- *2025.01* **Excellent Doctoral Candidate Training Program**, Nanjing University of Science and Technology (University-level doctoral support)
-- *2023.01* **National Scholarship for Studying Abroad**, China Scholarship Council (Two-year overseas funding)
-- *2019.05* **Third Prize**, 10th LanQiao Cup National Finals, C/C++ (Group B, Univ) (National-level award)
-- *2018.10* **ICPC Bronze Medal**, ICPC Xuzhou Site (Regional bronze medal)
-- *2018.09* **CCPC Bronze Medal**, CCPC Jilin Site (Regional bronze medal)
-- *2018.09* **Third Prize**, Hunan Collegiate Programming Contest (Provincial-level award)
-- *2018.05* **Third Prize**, 9th LanQiao Cup National Finals, C/C++ (Group B, Univ) (National-level award)
+- **National Scholarship for PhD Students**, 2025
+- **Excellent Doctoral Candidate Training Program**, 2025
+- **National Scholarship for Studying Abroad**, 2023
+- **Third Prize**, 10th LanQiao Cup National Finals, 2019
+- **Bronze Medal**, ICPC Xuzhou Site, 2018
+- **Bronze Medal**, CCPC Jilin Site, 2018
+- **Third Prize**, Hunan Collegiate Programming Contest, 2018
+- **Third Prize**, 9th LanQiao Cup National Finals, 2018
 
   <!-- 访客地图 -->
 <div style="text-align: center; margin-top: 30px; margin-bottom: 30px;">
