@@ -87,7 +87,7 @@ My research interests include Computer Vision, Action Recognition, Federated Lea
 
 [Tensor-aggregated LoRA in Federated Fine-tuning](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Tensor-aggregated_LoRA_in_Federated_Fine-tuning_ICCV_2025_paper.pdf)
 
-ZhiXuanLi*, **Binqian Xu***, Xiangbo Shu, Jiachao Zhang, Yazhou Yao, Guo-Sen Xie, Jinhui Tang
+ZhiXuanLi*, **Binqian Xu\***, Xiangbo Shu, Jiachao Zhang, Yazhou Yao, Guo-Sen Xie, Jinhui Tang
 
 *International Conference on Computer Vision* (**ICCV**), 2025
 
