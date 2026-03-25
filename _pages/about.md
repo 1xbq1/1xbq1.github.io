@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Research Fellow at The Artificial Scientific Intelligence Lab (ASI Lab) at the National University of Singapore, under the supervision of <a href='https://www.asintelligence.xyz/'>Prof. Leo Dianbo Liu</a>. Before that, I received my Ph.D. from Nanjing University of Science and Technology, where I was affiliated with the <a href="https://shuxb104.github.io/team/">Visual Intelligence and Multimedia (VIM)</a> and <a href="https://imag-njust.net/">Intelligent Media Analysis Group (IMAG)</a> under the supervision of <a href='https://shuxb104.github.io/'>Prof. Xiangbo Shu</a>.
+I am currently a Research Fellow at <a href='https://www.asintelligence.xyz/'>The Artificial Scientific Intelligence Lab (ASI Lab)</a> at the National University of Singapore, under the supervision of <a href='https://scholar.google.com/citations?user=kGSzBpMAAAAJ&hl=en'>Prof. Leo Dianbo Liu</a>. Before that, I received my Ph.D. from Nanjing University of Science and Technology, where I was affiliated with the <a href="https://shuxb104.github.io/team/">Visual Intelligence and Multimedia (VIM)</a> and <a href="https://imag-njust.net/">Intelligent Media Analysis Group (IMAG)</a> under the supervision of <a href='https://shuxb104.github.io/'>Prof. Xiangbo Shu</a>.
 
 Previously, I was a visiting Ph.D. student at A*STAR and NUS for two years, working with <a href='https://cde.nus.edu.sg/ece/staff/shou-zheng-mike/'>Prof. Mike Z. Shou</a> and <a href='https://basurafernando.github.io/'>Dr. Basura</a>.
 
