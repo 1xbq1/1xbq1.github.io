@@ -24,21 +24,13 @@ Previously, I was a visiting Ph.D. student at A*STAR and NUS for two years, work
 My research interests include Computer Vision, Action Recognition, Federated Learning, and AI Agents. 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
-<!-- # 🔥 News
-- *2026-01-26*: &nbsp;🎉🎉 Published a paper in IEEE TIP! 
-- *2025-09-19*: &nbsp;🎉🎉 YOCO is accepted by NeurIPS 2025!
-- *2025-06-26*: &nbsp;🎉🎉 Te-LoRA is accepted by ICCV 2025! 
-- *2024-09-26*: &nbsp;🎉🎉 DoFIT is accepted by NeurIPS 2024! 
-- *2023-03-10*: &nbsp;🎉🎉 Published a paper in IEEE TNNLS! 
-- *2022-11-17*: &nbsp;🎉🎉 Published a paper in IEEE TPAMI! 
-- *2022-05-26*: &nbsp;🎉🎉 Published a paper in IEEE TIP!  -->
-
 # 🔥 News
 
 <!-- <div style="height: 250px; overflow-y: auto; border: 1px solid #eee; padding: 15px; border-radius: 8px; background-color: #f9f9f9; margin-bottom: 20px;">
   <ul style="list-style-type: none; margin-left: 0; line-height: 1.6;"> -->
   <div style="max-height: 120px; overflow-y: auto; padding: 10px;">
   <ul style="margin: 0; padding-left: 20px;">
+    <li><b>2026-04-06</b>: 🎉🎉 DeGAML-LLM is accepted by ACL 2026! Congrats to co-authors!</li>
     <li><b>2026-01-26</b>: 🎉🎉 Published a paper in IEEE TIP!</li>
     <li><b>2025-09-19</b>: 🎉🎉 YOCO is accepted by NeurIPS 2025!</li>
     <li><b>2025-06-26</b>: 🎉🎉 Te-LoRA is accepted by ICCV 2025! Congrats to co-authors!</li>
@@ -54,6 +46,46 @@ My research interests include Computer Vision, Action Recognition, Federated Lea
 # 📝 Selected Publications (*co-first author) -->
 <span class='anchor' id='selected-publications'></span>
 # 📝 Selected Publications (*co-first author)
+
+<div class='paper-box'>
+  <div class='paper-box-image' style="flex: 0.3; min-width: 200px;">
+    <div>
+      <div class="badge">ACL 2026</div>
+      <img src='images/DeGAML-LLM.PNG' alt="DeGAML-LLM" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1" style="flex: 0.7; padding-left: 20px;">
+
+[Decoupling Generalization and Adaptation in Meta-Learning for Large Language Models]()
+
+Nitin Vetcha, **Binqian Xu**, and Dianbo Liu
+
+*The 64th Annual Meeting of the Association for Computational Linguistics* (**ACL**), 2026
+
+<a href=""><strong>[pdf]</strong></a> | <a href=""><strong>[code]</strong></a>
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image' style="flex: 0.3; min-width: 200px;">
+    <div>
+      <div class="badge">IEEE TIP 2026</div>
+      <img src='images/Attack.PNG' alt="Attack" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1" style="flex: 0.7; padding-left: 20px;">
+
+[Attack-Augmented Mixing-Contrastive Skeletal Representation Learning]()
+
+**Binqian Xu**, Xiangbo Shu, Jiachao Zhang, Rui Yan, and Guo-Sen Xie
+
+*IEEE Transactions on Image Processing* (**IEEE TIP**), 2026
+
+<a href=""><strong>[pdf]</strong></a> | <a href=""><strong>[code]</strong></a>
+
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image' style="flex: 0.3; min-width: 200px;">
