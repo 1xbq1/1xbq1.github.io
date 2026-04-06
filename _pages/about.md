@@ -62,7 +62,7 @@ Nitin Vetcha, **Binqian Xu**, and Dianbo Liu
 
 *The 64th Annual Meeting of the Association for Computational Linguistics* (**ACL**), 2026
 
-<a href=""><strong>[pdf]</strong></a> | <a href=""><strong>[code]</strong></a>
+<a href="xxx"><strong>[pdf]</strong></a> | <a href="xxx"><strong>[code]</strong></a>
 
   </div>
 </div>
@@ -82,7 +82,7 @@ Nitin Vetcha, **Binqian Xu**, and Dianbo Liu
 
 *IEEE Transactions on Image Processing* (**IEEE TIP**), 2026
 
-<a href=""><strong>[pdf]</strong></a> | <a href=""><strong>[code]</strong></a>
+<a href="xxx"><strong>[pdf]</strong></a> | <a href="xxx"><strong>[code]</strong></a>
 
   </div>
 </div>
