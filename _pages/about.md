@@ -21,7 +21,7 @@ I am currently a Research Fellow at <a href='https://www.asintelligence.xyz/'>Th
 
 Previously, I was a visiting Ph.D. student at A*STAR and NUS for two years, working with <a href='https://cde.nus.edu.sg/ece/staff/shou-zheng-mike/'>Prof. Mike Z. Shou</a> and <a href='https://basurafernando.github.io/'>Dr. Basura</a>.
 
-My research interests include Computer Vision, Action Recognition, Federated Learning, and AI Agents. 
+My research interests include Computer Vision, Action Recognition, Federated Learning, Task Planning, and AI Agents. 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 # 🔥 News
