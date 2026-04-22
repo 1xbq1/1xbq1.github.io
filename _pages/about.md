@@ -287,6 +287,29 @@ Xiangbo Shu, **Binqian Xu**, Liyan Zhang, Jinhui Tang
 - **Third Prize**, Hunan Collegiate Programming Contest, 2018
 - **Third Prize**, 9th LanQiao Cup National Finals, 2018
 
+# 🛎 Academic Service
+
+**Journal Reviewer:**
+- International Journal of Computer Vision (IJCV)
+- IEEE Transactions on Neural Networks and Learning Systems (TNNLS)
+- IEEE Transactions on Multimedia (TMM)
+- IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
+- Information Sciences
+
+**Conference Reviewer:**
+- IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2025-2026)
+- IEEE International Conference on Computer Vision (ICCV 2025)
+- International Conference on Learning Representations (ICLR 2025-2026)
+- International Conference on Machine Learning (ICML 2025-2026)
+- Annual Conference on Neural Information Processing Systems (NeurIPS 2025) Datasets and Benchmarks Track
+- Annual Conference on Neural Information Processing Systems (NeurIPS 2024)
+- AAAI Conference on Artificial Intelligence (AAAI 2026)
+- IEEE/CVF Winter Conference on Applications of Computer Vision (WACV 2026)
+- Annual Meeting of the Association for Computational Linguistics (ACL 2026)
+- International Conference on Artificial Intelligence and Statistics (AISTATS 2026)
+- ACM International Conference on Multimedia Asia (ACM Multimedia Asia 2025)
+- Chinese Conference on Biometric Recognition (CCBR 2025)
+
   <!-- 访客地图 -->
 <div style="text-align: center; margin-top: 30px; margin-bottom: 30px;">
   <a href="https://mapmyvisitors.com/web/1bzj9" title="Visit tracker">
