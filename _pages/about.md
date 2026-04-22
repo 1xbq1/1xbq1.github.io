@@ -30,6 +30,7 @@ My research interests include Computer Vision, Action Recognition, Federated Lea
   <ul style="list-style-type: none; margin-left: 0; line-height: 1.6;"> -->
   <div style="max-height: 120px; overflow-y: auto; padding: 10px;">
   <ul style="margin: 0; padding-left: 20px;">
+    <li><b>2026-04-22</b>: 🎉🎉 Fed-C<span style="font-family: Helvetica, Arial, sans-serif;">&amp;</span>E is accepted by IEEE TIFS! Congrats to co-authors!</li>
     <li><b>2026-04-06</b>: 🎉🎉 DeGAML-LLM is accepted by ACL 2026! Congrats to co-authors!</li>
     <li><b>2026-01-26</b>: 🎉🎉 Published a paper in IEEE TIP!</li>
     <li><b>2025-09-19</b>: 🎉🎉 YOCO is accepted by NeurIPS 2025!</li>
@@ -46,6 +47,8 @@ My research interests include Computer Vision, Action Recognition, Federated Lea
 # 📝 Selected Publications (*co-first author) -->
 <span class='anchor' id='selected-publications'></span>
 # 📝 Selected Publications (*co-first author)
+
+## Evolving Agent
 
 <div class='paper-box'>
   <div class='paper-box-image' style="flex: 0.3; min-width: 200px;">
@@ -69,20 +72,22 @@ Nitin Vetcha, **Binqian Xu**, and Dianbo Liu
   </div>
 </div>
 
+## Federated Learning
+
 <div class='paper-box'>
   <div class='paper-box-image' style="flex: 0.3; min-width: 200px;">
     <div>
-      <div class="badge">IEEE TIP 2026</div>
-      <img src='images/Attack.PNG' alt="Attack" width="100%">
+      <div class="badge">IEEE TIFS 2026</div>
+      <img src='images/Fed_CE.PNG' alt="Fed-C&amp;E" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1" style="flex: 0.7; padding-left: 20px;">
 
-[Attack-Augmented Mixing-Contrastive Skeletal Representation Learning]()
+[Federated Unsupervised Skeletal Action Recognition From Condensation to Expansion]()
 
-**Binqian Xu**, Xiangbo Shu, Jiachao Zhang, Rui Yan, and Guo-Sen Xie
+Jinjin Gong, **Binqian Xu**, Jiachao Zhang, and Xiangbo Shu
 
-*IEEE Transactions on Image Processing* (**IEEE TIP**), 2026
+*IEEE Transactions on Information Forensics and Security* (**IEEE TIFS**), 2026
 
 <div>
 <a href=""><strong>[pdf]</strong></a> | <a href=""><strong>[code]</strong></a>
@@ -175,6 +180,30 @@ ZhiXuanLi*, **Binqian Xu\***, Xiangbo Shu, Jiachao Zhang, Yazhou Yao, Guo-Sen Xi
   </div>
 </div>
 
+## Action Recognition
+
+<div class='paper-box'>
+  <div class='paper-box-image' style="flex: 0.3; min-width: 200px;">
+    <div>
+      <div class="badge">IEEE TIP 2026</div>
+      <img src='images/Attack.PNG' alt="Attack" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1" style="flex: 0.7; padding-left: 20px;">
+
+[Attack-Augmented Mixing-Contrastive Skeletal Representation Learning]()
+
+**Binqian Xu**, Xiangbo Shu, Jiachao Zhang, Rui Yan, and Guo-Sen Xie
+
+*IEEE Transactions on Image Processing* (**IEEE TIP**), 2026
+
+<div>
+<a href=""><strong>[pdf]</strong></a> | <a href=""><strong>[code]</strong></a>
+</div>
+
+  </div>
+</div>
+
 <div class='paper-box'>
   <div class='paper-box-image' style="flex: 0.3; min-width: 200px;">
     <div>
@@ -237,6 +266,10 @@ Xiangbo Shu, **Binqian Xu**, Liyan Zhang, Jinhui Tang
 
   </div>
 </div>
+
+## Task Planning
+
+*Coming soon*
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
