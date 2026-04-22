@@ -209,7 +209,7 @@ ZhiXuanLi*, **Binqian Xu\***, Xiangbo Shu, Jiachao Zhang, Yazhou Yao, Guo-Sen Xi
   <div class='paper-box-image' style="flex: 0.3; min-width: 200px;">
     <div>
       <div class="badge">SCIS 2026</div>
-      <img src='images/AS-CAR.PNG' alt="AS-CAR" width="100%">
+      <img src='images/AS-CAR.png' alt="AS-CAR" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1" style="flex: 0.7; padding-left: 20px;">
