@@ -32,13 +32,14 @@ My research interests include Computer Vision, Action Recognition, Federated Lea
   <ul style="margin: 0; padding-left: 20px;">
     <li><b>2026-04-22</b>: 🎉🎉 Fed-C<span style="font-family: Helvetica, Arial, sans-serif;">&amp;</span>E is accepted by IEEE TIFS! Congrats to co-authors!</li>
     <li><b>2026-04-06</b>: 🎉🎉 DeGAML-LLM is accepted by ACL 2026! Congrats to co-authors!</li>
-    <li><b>2026-01-26</b>: 🎉🎉 Published a paper in IEEE TIP!</li>
+    <li><b>2026-01-26</b>: 🎉🎉 A2MC is accepted by IEEE TIP!</li>
+    <li><b>2025-12-22</b>: 🎉🎉 AS-CAR is accepted by SCIS! Congrats to co-authors!</li>
     <li><b>2025-09-19</b>: 🎉🎉 YOCO is accepted by NeurIPS 2025!</li>
     <li><b>2025-06-26</b>: 🎉🎉 Te-LoRA is accepted by ICCV 2025! Congrats to co-authors!</li>
     <li><b>2024-09-26</b>: 🎉🎉 DoFIT is accepted by NeurIPS 2024!</li>
-    <li><b>2023-03-10</b>: 🎉🎉 Published a paper in IEEE TNNLS!</li>
-    <li><b>2022-11-17</b>: 🎉🎉 Published a paper in IEEE TPAMI!</li>
-    <li><b>2022-05-26</b>: 🎉🎉 Published a paper in IEEE TIP!</li>
+    <li><b>2023-03-10</b>: 🎉🎉 SDS-CL is accepted by IEEE TNNLS!</li>
+    <li><b>2022-11-17</b>: 🎉🎉 MAC-Learning is accepted by IEEE TPAMI!</li>
+    <li><b>2022-05-26</b>: 🎉🎉 X-CAR is accepted by IEEE TIP!</li>
   </ul>
 </div>
 
@@ -196,6 +197,28 @@ ZhiXuanLi*, **Binqian Xu\***, Xiangbo Shu, Jiachao Zhang, Yazhou Yao, Guo-Sen Xi
 **Binqian Xu**, Xiangbo Shu, Jiachao Zhang, Rui Yan, and Guo-Sen Xie
 
 *IEEE Transactions on Image Processing* (**IEEE TIP**), 2026
+
+<div>
+<a href=""><strong>[pdf]</strong></a> | <a href=""><strong>[code]</strong></a>
+</div>
+
+  </div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image' style="flex: 0.3; min-width: 200px;">
+    <div>
+      <div class="badge">SCIS 2026</div>
+      <img src='images/AS-CAR.PNG' alt="AS-CAR" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1" style="flex: 0.7; padding-left: 20px;">
+
+[AS-CAR: adaptive topology evolution with semantic alignment for continual action recognition]()
+
+Xingyu Zhu, Xiangbo Shu, **Binqian Xu**, Liyan Zhang, and Jinhui Tang
+
+*Science China Information Sciences* (**SCIS**), 2026
 
 <div>
 <a href=""><strong>[pdf]</strong></a> | <a href=""><strong>[code]</strong></a>
