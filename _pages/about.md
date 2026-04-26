@@ -24,6 +24,10 @@ Previously, I was a visiting Ph.D. student at A*STAR and NUS for two years, work
 My research interests include Computer Vision, Action Recognition, Federated Learning, Task Planning, and AI Agents. 
 <!-- I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
+📫 **Get in Touch / Collaborations**
+
+I am always open to discussions and collaborations! If you share an interest in these research directions, or are seeking remote internship opportunities, please feel free to reach out with your CV at: <a href="mailto:xubinq11@gmail.com">xubinq11@gmail.com</a>.
+
 # 🔥 News
 
 <!-- <div style="height: 250px; overflow-y: auto; border: 1px solid #eee; padding: 15px; border-radius: 8px; background-color: #f9f9f9; margin-bottom: 20px;">
