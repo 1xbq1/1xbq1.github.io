@@ -26,7 +26,7 @@ My research interests include Computer Vision, Action Recognition, Federated Lea
 
 📫 **Get in Touch / Collaborations**
 
-I am always open to discussions and collaborations! If you share an interest in these research directions, or are seeking remote internship opportunities, please feel free to reach out with your CV at: <a href="mailto:xubinq11@gmail.com">xubinq11@gmail.com</a>.
+I am always open to discussions and collaborations! If you share an interest in these research directions, or are seeking remote internship opportunities, please feel free to reach out with your CV at: <a href="mailto:xubinq11@gmail.com" style="font-family: Helvetica, Arial, sans-serif;">xubinq11@gmail.com</a>.
 
 # 🔥 News
 
