@@ -34,6 +34,7 @@ I am always open to discussions and collaborations! If you share an interest in 
   <ul style="list-style-type: none; margin-left: 0; line-height: 1.6;"> -->
   <div style="max-height: 120px; overflow-y: auto; padding: 10px;">
   <ul style="margin: 0; padding-left: 20px;">
+    <li><b>2026-05-01</b>: 🎉🎉 DecoVer is accepted by ICML 2026! Congrats to co-authors!</li>
     <li><b>2026-04-22</b>: 🎉🎉 Fed-C<span style="font-family: Helvetica, Arial, sans-serif;">&amp;</span>E is accepted by IEEE TIFS! Congrats to co-authors!</li>
     <li><b>2026-04-06</b>: 🎉🎉 DeGAML-LLM is accepted by ACL 2026! Congrats to co-authors!</li>
     <li><b>2026-01-26</b>: 🎉🎉 A2MC is accepted by IEEE TIP!</li>
@@ -51,7 +52,31 @@ I am always open to discussions and collaborations! If you share an interest in 
 <!-- <div id="selected-publications"></div>
 # 📝 Selected Publications (*co-first author) -->
 <span class='anchor' id='selected-publications'></span>
-# 📝 Selected Publications (*co-first author)
+# 📝 Selected Publications (\* Equal Contribution, † Corresponding Author)
+
+## Task Planning
+
+<div class='paper-box'>
+  <div class='paper-box-image' style="flex: 0.3; min-width: 200px;">
+    <div>
+      <div class="badge">ICML 2026</div>
+      <img src='images/DecoVer.PNG' alt="DecoVer" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1" style="flex: 0.7; padding-left: 20px;">
+
+[DecoVer: A Decompose-and-Verify Neuro-Symbolic Framework for Embodied Task Planning with BC+]()
+
+YiXiang Jiang\*, Binqian Xu\*†, and Xiangbo Shu†
+
+*Forty-third International Conference on Machine Learning* (**ICML**), 2026
+
+<div>
+<a href=""><strong>[pdf]</strong></a> | <a href=""><strong>[code]</strong></a>
+</div>
+
+  </div>
+</div>
 
 ## Evolving Agent
 
@@ -133,7 +158,7 @@ Jinjin Gong, **Binqian Xu**, Jiachao Zhang, and Xiangbo Shu
 
 [Tensor-aggregated LoRA in Federated Fine-tuning](https://openaccess.thecvf.com/content/ICCV2025/papers/Li_Tensor-aggregated_LoRA_in_Federated_Fine-tuning_ICCV_2025_paper.pdf)
 
-ZhiXuanLi*, **Binqian Xu\***, Xiangbo Shu, Jiachao Zhang, Yazhou Yao, Guo-Sen Xie, Jinhui Tang
+ZhiXuanLi\*, **Binqian Xu\***, Xiangbo Shu, Jiachao Zhang, Yazhou Yao, Guo-Sen Xie, Jinhui Tang
 
 *International Conference on Computer Vision* (**ICCV**), 2025
 
@@ -293,10 +318,6 @@ Xiangbo Shu, **Binqian Xu**, Liyan Zhang, Jinhui Tang
 
   </div>
 </div>
-
-## Task Planning
-
-*Coming soon*
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
