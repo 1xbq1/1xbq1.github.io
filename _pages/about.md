@@ -52,7 +52,7 @@ I am always open to discussions and collaborations! If you share an interest in 
 <!-- <div id="selected-publications"></div>
 # 📝 Selected Publications (*co-first author) -->
 <span class='anchor' id='selected-publications'></span>
-# 📝 Selected Publications (\* Equal Contribution, † Corresponding Author)
+# 📝 Selected Publications (\* Equal Contribution, ✉ Corresponding Author)
 
 ## Task Planning
 
@@ -67,7 +67,7 @@ I am always open to discussions and collaborations! If you share an interest in 
 
 [DecoVer: A Decompose-and-Verify Neuro-Symbolic Framework for Embodied Task Planning with BC+]()
 
-YiXiang Jiang\*, Binqian Xu\*†, and Xiangbo Shu†
+YiXiang Jiang\*, Binqian Xu\*✉, and Xiangbo Shu✉
 
 *Forty-third International Conference on Machine Learning* (**ICML**), 2026
 
