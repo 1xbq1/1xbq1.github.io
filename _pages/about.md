@@ -34,6 +34,7 @@ I am always open to discussions and collaborations! If you share an interest in 
   <ul style="list-style-type: none; margin-left: 0; line-height: 1.6;"> -->
   <div style="max-height: 120px; overflow-y: auto; padding: 10px;">
   <ul style="margin: 0; padding-left: 20px;">
+    <li><b>2026-05-11</b>: 🎉🎉 FedIGA is accepted by IEEE TMM!</li>
     <li><b>2026-05-01</b>: 🎉🎉 DecoVer is accepted by ICML 2026! Congrats to co-authors!</li>
     <li><b>2026-04-22</b>: 🎉🎉 Fed-C<span style="font-family: Helvetica, Arial, sans-serif;">&amp;</span>E is accepted by IEEE TIFS! Congrats to co-authors!</li>
     <li><b>2026-04-06</b>: 🎉🎉 DeGAML-LLM is accepted by ACL 2026! Congrats to co-authors!</li>
@@ -67,7 +68,7 @@ I am always open to discussions and collaborations! If you share an interest in 
 
 [DecoVer: A Decompose-and-Verify Neuro-Symbolic Framework for Embodied Task Planning with BC+]()
 
-YiXiang Jiang\*, Binqian Xu\*✉, and Xiangbo Shu✉
+YiXiang Jiang\*, **Binqian Xu**\*✉, and Xiangbo Shu✉
 
 *Forty-third International Conference on Machine Learning* (**ICML**), 2026
 
@@ -103,6 +104,28 @@ Nitin Vetcha, **Binqian Xu**, and Dianbo Liu
 </div>
 
 ## Federated Learning
+
+<div class='paper-box'>
+  <div class='paper-box-image' style="flex: 0.3; min-width: 200px;">
+    <div>
+      <div class="badge">IEEE TIFS 2026</div>
+      <img src='images/FedIGA.PNG' alt="FedIGA" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1" style="flex: 0.7; padding-left: 20px;">
+
+[FedIGA: Improving Global Model Aggregation for Federated Self-Supervised Skeletal Action Recognition]()
+
+**Binqian Xu**, Xiangbo Shu, Chun-Mei Feng, Basura Fernando, Mike Zheng Shou
+
+*IEEE Transactions on Multimedia* (**IEEE TMM**), 2026
+
+<div>
+<a href=""><strong>[pdf]</strong></a> | <a href=""><strong>[code]</strong></a>
+</div>
+
+  </div>
+</div>
 
 <div class='paper-box'>
   <div class='paper-box-image' style="flex: 0.3; min-width: 200px;">
