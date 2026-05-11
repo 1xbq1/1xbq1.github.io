@@ -108,7 +108,7 @@ Nitin Vetcha, **Binqian Xu**, and Dianbo Liu
 <div class='paper-box'>
   <div class='paper-box-image' style="flex: 0.3; min-width: 200px;">
     <div>
-      <div class="badge">IEEE TIFS 2026</div>
+      <div class="badge">IEEE TMM 2026</div>
       <img src='images/FedIGA.PNG' alt="FedIGA" width="100%">
     </div>
   </div>
